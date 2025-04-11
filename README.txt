@@ -14,7 +14,7 @@ for settings.ini:
 for vectors.conf
 	[x1 y1] [x2 y2] [x3 y3] ... [xn yn]
 
-Using incorrect syntax WILL break the program. Error handling is very rudimentary at best. Example inputs have already been provided with the correct syntax. 
+Using incorrect syntax WILL break the program. Error handling is very rudimentary at best (virtually nonexistent as of v1.0.0). Example inputs have already been provided with the correct syntax. 
 
 This is the first properly functional version. My drafts, and any prior versions, with their syntax errors, typos, and other failures, are in the "history" branch. May it serve as documentation of my working process.
 
